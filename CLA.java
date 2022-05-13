@@ -2,9 +2,7 @@ import java.util.Scanner;
 
 /**
  * Paul Bernius
- * A20296830
  *
- * CS 3443
  * PGM-CLA
  * April 29, 2022
  *
